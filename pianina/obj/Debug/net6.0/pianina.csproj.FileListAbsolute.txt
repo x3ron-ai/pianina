@@ -1,0 +1,15 @@
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.AssemblyInfo.cs
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\pianina\pianina\bin\Debug\net6.0\pianina.exe
+C:\Users\Roman\source\repos\pianina\pianina\bin\Debug\net6.0\pianina.deps.json
+C:\Users\Roman\source\repos\pianina\pianina\bin\Debug\net6.0\pianina.runtimeconfig.json
+C:\Users\Roman\source\repos\pianina\pianina\bin\Debug\net6.0\pianina.dll
+C:\Users\Roman\source\repos\pianina\pianina\bin\Debug\net6.0\pianina.pdb
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.dll
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\refint\pianina.dll
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.pdb
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\pianina.genruntimeconfig.cache
+C:\Users\Roman\source\repos\pianina\pianina\obj\Debug\net6.0\ref\pianina.dll
